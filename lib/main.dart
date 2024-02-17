@@ -8,12 +8,7 @@ void main() async {
   Firestore.initialize("shopping-zone-36ab7");
   await Firebase.initializeApp(
       options: const FirebaseOptions(
-    apiKey: "AIzaSyBffSa7lO32t3LcB20r4Xu7W6_AEsQBF9I",
-    appId: "1:269036190878:web:50a36cd90e67e8b9fd8f8f",
-    messagingSenderId: "269036190878",
-    storageBucket: "e-com-app-1e9de.appspot.com",
-    //databaseURL: "https://pharmacy-app-decf9-default-rtdb.firebaseio.com",
-    projectId: "e-com-app-1e9de",
+    //add your firebase options here
   ));
   runApp(const MyApp());
 }
