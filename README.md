@@ -1,6 +1,6 @@
 # Windows based Dashboard for [Online Store](https://github.com/malikahmadmukhtar/Online-Store-App-using-flutter-Firebase) using flutter 
 
-### Companion Application for [Online Store](https://github.com/malikahmadmukhtar/Online-Store-App-using-flutter-Firebase) and Store Website to manage their data and users
+### Companion Application for [Online Store](https://github.com/malikahmadmukhtar/Online-Store-App-using-flutter-Firebase) and [Store Website](https://github.com/malikahmadmukhtar/Online-store-website-using-firebase-in-flutter) to manage their data and users
 
 ## Features
 
