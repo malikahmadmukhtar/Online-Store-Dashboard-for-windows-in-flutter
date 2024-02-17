@@ -1,16 +1,55 @@
-# storemanager
+# Windows based Dashboard for [Online Store](https://github.com/malikahmadmukhtar/Online-Store-App-using-flutter-Firebase) using flutter 
 
-A new Flutter project.
+### Companion Application for [Online Store](https://github.com/malikahmadmukhtar/Online-Store-App-using-flutter-Firebase) and Store Website to manage their data and users
+
+## Features
+
+- View currently active users
+- Add Products with their images and description
+- View the current ordered products with details of users
+
+## Tools used
+
+- Flutter
+- Dart
+- Firebase (Firestore)
+- Visual Studio
+  
+## Screenshots
+
+### Users Page
+<p align="left">
+  <img src="https://github.com/malikahmadmukhtar/Online-Store-Dashboard-for-windows-in-flutter/assets/158511475/5c3d8860-2e91-438b-912b-dddbb9cbf246"/>
+</p>
+
+### View Product, Cart and Current Orders
+
+<p align="left">
+  <img src="https://github.com/malikahmadmukhtar/Online-Store-Dashboard-for-windows-in-flutter/assets/158511475/fb4abe3e-8a01-4021-b013-57a7a6135265"/>
+</p>
+
+### Categories, Search and Order Page
+
+<p align="left">
+  <img src="https://github.com/malikahmadmukhtar/Online-Store-Dashboard-for-windows-in-flutter/assets/158511475/5283b777-c75e-4b9b-af03-21a5127c1ce4"/>
+</p>
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK installed
+- Android Studio or Visual Studio Code with Flutter plugin installed
+- Firebase account
+- Visual Studio with C++ Workload installed
+  
+### Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/malikahmadmukhtar/Online-Store-Dashboard-for-windows-in-flutter.git
+   
+2. Add Firebase options to main.dart file and run in windows
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### [I'll be here](https://github.com/malikahmadmukhtar)
